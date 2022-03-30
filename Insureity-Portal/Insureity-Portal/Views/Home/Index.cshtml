@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <div>
+        <p class="text-right m-0">Welcome,<strong> @ViewBag.Agent</strong></p>
+    </div>
+    <div class="row p-2 pb-5">
+        <div class="col">
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/View.png" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="ViewConsumerBusinessRequest" asp-controller="Consumer" class="btn btn-primary">Consumer Business</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/conProp.png" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="ViewBusinessPropertyRequest" asp-controller="Consumer" class="btn btn-primary">Consumer property</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/opendoorpolicy.png" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="CreatePolicyRequest" asp-controller="Home" class="btn btn-primary">Create Policy For Business</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/issue.png" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="IssuePolicyRequest" asp-controller="Home" class="btn btn-primary d-flex justify-content-center">Issue Policy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/viewpolicy.png" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="ViewPolicyRequest" asp-controller="Home" class="btn btn-primary d-flex justify-content-center">View Policy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card" style="width:200px; height:200px;">
+                <img class="card-img-top" src="~/Images/policyic.jpg" style=" height:150px; width:200px;" alt="Card image">
+                <div class="card-body">
+                    <a asp-action="GetQuotesRequest" asp-controller="Home" class="btn btn-primary d-flex justify-content-center">View Quotes</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>

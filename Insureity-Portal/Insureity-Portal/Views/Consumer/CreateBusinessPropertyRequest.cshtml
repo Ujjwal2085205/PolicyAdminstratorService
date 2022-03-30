@@ -1,0 +1,86 @@
+﻿@model Insureity_Portal.Models.BusinessProperty
+
+@{
+    ViewData["Title"] = "Create Business Property";
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-8">
+        <img src="~/Images/property.png" class="rounded mx-auto d-block" style="width:100px;height:99px;" />
+        <h4 class="d-flex justify-content-center pb-2">Create Business Property</h4>
+
+        <form asp-action="CreateBusinessPropertyRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col">
+                    <font color="blue">ConsumerId</font>
+                    <input asp-for="ConsumerId" class="form-control" />
+                    <span asp-validation-for="ConsumerId" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">PropertyId</font>
+                    <input asp-for="PropertyId" class="form-control" />
+                    <span asp-validation-for="PropertyId" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">UsefulLifeOfTheAsset</font>
+                    <input asp-for="UsefulLifeOfTheAsset" class="form-control" />
+                    <span asp-validation-for="UsefulLifeOfTheAsset" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <font color="blue">BuildingSqft</font>
+                    <input asp-for="BuildingSqft" class="form-control" />
+                    <span asp-validation-for="BuildingSqft" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">BuildingType</font>
+                    <Select asp-for="BuildingType" class="form-control">
+                        <option value="Owned">Owned</option>
+                        <option value="Rented">Rented</option>
+                    </Select>
+                    <span asp-validation-for="BuildingType" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <font color="blue">BuildingStoreys</font>
+                    <input asp-for="BuildingStoreys" class="form-control" />
+                    <span asp-validation-for="BuildingStoreys" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">BuildingAge</font>
+                    <input asp-for="BuildingAge" class="form-control" />
+                    <span asp-validation-for="BuildingAge" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <font color="blue">CostOfTheAsset</font>
+                    <input asp-for="CostOfTheAsset" class="form-control" />
+                    <span asp-validation-for="CostOfTheAsset" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">SalvageValue</font>
+                    <input asp-for="SalvageValue" class="form-control" />
+                    <span asp-validation-for="SalvageValue" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group d-flex justify-content-center pt-4">
+                <input type="submit" value="Create Business Property" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

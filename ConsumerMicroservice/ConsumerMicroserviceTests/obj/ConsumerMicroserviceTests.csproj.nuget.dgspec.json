@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroserviceTests\\ConsumerMicroserviceTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroserviceTests\\ConsumerMicroserviceTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroserviceTests\\ConsumerMicroserviceTests.csproj",
+        "projectName": "ConsumerMicroserviceTests",
+        "projectPath": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroserviceTests\\ConsumerMicroserviceTests.csproj",
+        "packagesPath": "C:\\Users\\2085266\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroserviceTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2085266\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\ConsumerMicroservice.csproj": {
+                "projectPath": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\ConsumerMicroservice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\ConsumerMicroservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\ConsumerMicroservice.csproj",
+        "projectName": "ConsumerMicroservice",
+        "projectPath": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\ConsumerMicroservice.csproj",
+        "packagesPath": "C:\\Users\\2085266\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2085266\\OneDrive - Cognizant\\Desktop\\Finalllll\\ConsumerMicroservice\\ConsumerMicroservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2085266\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "TypeMerger": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

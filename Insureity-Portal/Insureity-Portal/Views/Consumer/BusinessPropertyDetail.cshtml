@@ -1,0 +1,70 @@
+﻿@model Insureity_Portal.Models.BusinessPropertyDetails
+
+@{
+    ViewData["Title"] = "Business Details";
+}
+
+<div>
+    
+    <hr />
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-8 border-dark">
+            <img src="~/Images/UserLogo.png" class="rounded mx-auto d-block" style="width:100px;height:99px;" />
+            <h4 class="d-flex justify-content-center pb-2">Business Property Details</h4>
+            <table border="1" align="center" class="table-striped p-2">
+                <tr>
+                    <th> @Html.DisplayNameFor(model => model.ConsumerId)</th>
+                    <td> @Html.DisplayFor(model => model.ConsumerId)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.PropertyId)</th>
+                    <td>@Html.DisplayFor(model => model.PropertyId)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.BuildingSqft)</th>
+                    <td>@Html.DisplayFor(model => model.BuildingSqft)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.BuildingType)</th>
+                    <td>@Html.DisplayFor(model => model.BuildingType)</td>
+                </tr>
+
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.BuildingStoreys)</th>
+                    <td>@Html.DisplayFor(model => model.BuildingStoreys)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.BuildingAge)</th>
+                    <td>@Html.DisplayFor(model => model.BuildingAge)</td>
+                </tr>
+
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.CostOfTheAsset)</th>
+                    <td>@Html.DisplayFor(model => model.CostOfTheAsset)</td>
+                </tr>
+                <tr>
+                    <th> @Html.DisplayNameFor(model => model.SalvageValue)</th>
+                    <td>@Html.DisplayFor(model => model.SalvageValue)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.UsefulLifeOfTheAsset)</th>
+                    <td> @Html.DisplayFor(model => model.UsefulLifeOfTheAsset)</td>
+                </tr>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.PropertyValue)</th>
+                    <td> @Html.DisplayFor(model => model.PropertyValue)</td>
+                </tr>
+
+            </table>
+
+
+
+        </div>
+        <div class="btn btn-outline-dark d-block justify-content-center">
+            @Html.ActionLink("Update Business Property", "UpdateBusinessProperty", new { consumerId = Model.ConsumerId, propertyId = Model.PropertyId })
+        </div>
+    </div>
+    
+</div>
+

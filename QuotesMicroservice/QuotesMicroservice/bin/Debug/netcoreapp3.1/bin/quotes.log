@@ -1,0 +1,168 @@
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Content root path: C:\Users\910264\MythProject\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  11:44:02 Content root path: C:\Users\910264\MythProject\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  11:44:17 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  11:44:17 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  11:44:17 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Content root path: C:\Stage -3 and 4\Something\Version 1\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  09:01:08 Content root path: C:\Stage -3 and 4\Something\Version 1\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  09:15:09 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:15:09 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:15:09 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:19:18 GetQuotesForPolicy action method started with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  09:19:18 QuotesForPolicyService is accessed with propertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  09:19:18 Checking QuotesForPolicy with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  10:51:40 Application started. Press Ctrl+C to shut down.
+INFO  10:51:40 Application started. Press Ctrl+C to shut down.
+INFO  10:51:40 Hosting environment: Development
+INFO  10:51:40 Hosting environment: Development
+INFO  10:51:40 Content root path: C:\Stage -3 and 4\Project\Without test\QuotesMicroservice\QuotesMicroservice
+INFO  10:51:40 Content root path: C:\Stage -3 and 4\Project\Without test\QuotesMicroservice\QuotesMicroservice
+INFO  10:55:46 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  10:55:46 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  10:55:46 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  12:07:34 Application started. Press Ctrl+C to shut down.
+INFO  12:07:34 Application started. Press Ctrl+C to shut down.
+INFO  12:07:34 Hosting environment: Development
+INFO  12:07:34 Hosting environment: Development
+INFO  12:07:34 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  12:07:34 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:00:59 Application started. Press Ctrl+C to shut down.
+INFO  02:00:59 Application started. Press Ctrl+C to shut down.
+INFO  02:00:59 Hosting environment: Development
+INFO  02:00:59 Hosting environment: Development
+INFO  02:00:59 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:00:59 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:08:13 Application started. Press Ctrl+C to shut down.
+INFO  02:08:13 Application started. Press Ctrl+C to shut down.
+INFO  02:08:13 Hosting environment: Development
+INFO  02:08:13 Hosting environment: Development
+INFO  02:08:13 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:08:13 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:09:25 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:09:25 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:09:25 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:30:08 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  02:30:08 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  02:30:08 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  04:29:02 Application started. Press Ctrl+C to shut down.
+INFO  04:29:02 Application started. Press Ctrl+C to shut down.
+INFO  04:29:02 Hosting environment: Development
+INFO  04:29:02 Hosting environment: Development
+INFO  04:29:02 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy Project\consumer-main\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  04:29:02 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy Project\consumer-main\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  04:50:11 Application started. Press Ctrl+C to shut down.
+INFO  04:50:11 Application started. Press Ctrl+C to shut down.
+INFO  04:50:11 Hosting environment: Development
+INFO  04:50:11 Hosting environment: Development
+INFO  04:50:11 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy Project\consumer-main\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  04:50:11 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Policy Project\consumer-main\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  04:51:41 GetQuotesForPolicy action method started with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  04:51:41 QuotesForPolicyService is accessed with propertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  04:51:41 Checking QuotesForPolicy with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  05:11:58 Application started. Press Ctrl+C to shut down.
+INFO  05:11:58 Application started. Press Ctrl+C to shut down.
+INFO  05:11:58 Hosting environment: Development
+INFO  05:11:58 Hosting environment: Development
+INFO  05:11:58 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Final Project\QuotesMicroservice\QuotesMicroservice
+INFO  05:11:58 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Final Project\QuotesMicroservice\QuotesMicroservice
+INFO  06:05:17 Application started. Press Ctrl+C to shut down.
+INFO  06:05:17 Application started. Press Ctrl+C to shut down.
+INFO  06:05:17 Hosting environment: Development
+INFO  06:05:17 Hosting environment: Development
+INFO  06:05:17 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Final Project\QuotesMicroservice\QuotesMicroservice
+INFO  06:05:17 Content root path: C:\Users\2085266\OneDrive - Cognizant\Desktop\Final Project\QuotesMicroservice\QuotesMicroservice
+INFO  06:08:41 GetQuotesForPolicy action method started with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:08:41 QuotesForPolicyService is accessed with propertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:08:41 Checking QuotesForPolicy with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:08:45 GetQuotesForPolicy action method started with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:08:45 QuotesForPolicyService is accessed with propertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:08:45 Checking QuotesForPolicy with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:12:27 GetQuotesForPolicy action method started with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:12:27 QuotesForPolicyService is accessed with propertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  06:12:27 Checking QuotesForPolicy with PropertyValue=4 BusinessValue=5 PropertyType=Building
+INFO  04:08:36 Application started. Press Ctrl+C to shut down.
+INFO  04:08:36 Application started. Press Ctrl+C to shut down.
+INFO  04:08:36 Hosting environment: Development
+INFO  04:08:36 Hosting environment: Development
+INFO  04:08:36 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:08:36 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:10:56 Application started. Press Ctrl+C to shut down.
+INFO  04:10:56 Application started. Press Ctrl+C to shut down.
+INFO  04:10:56 Hosting environment: Development
+INFO  04:10:56 Hosting environment: Development
+INFO  04:10:56 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:10:56 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:12:27 Application started. Press Ctrl+C to shut down.
+INFO  04:12:27 Application started. Press Ctrl+C to shut down.
+INFO  04:12:27 Hosting environment: Development
+INFO  04:12:27 Hosting environment: Development
+INFO  04:12:27 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:12:27 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:12:59 GetQuotesForPolicy action method started with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  04:12:59 QuotesForPolicyService is accessed with propertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  04:12:59 Checking QuotesForPolicy with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  02:32:40 Application started. Press Ctrl+C to shut down.
+INFO  02:32:40 Application started. Press Ctrl+C to shut down.
+INFO  02:32:40 Hosting environment: Development
+INFO  02:32:40 Hosting environment: Development
+INFO  02:32:40 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  02:32:40 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  02:34:19 Application started. Press Ctrl+C to shut down.
+INFO  02:34:19 Application started. Press Ctrl+C to shut down.
+INFO  02:34:19 Hosting environment: Development
+INFO  02:34:19 Hosting environment: Development
+INFO  02:34:19 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  02:34:19 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  10:40:13 Application started. Press Ctrl+C to shut down.
+INFO  10:40:14 Application started. Press Ctrl+C to shut down.
+INFO  10:40:14 Hosting environment: Development
+INFO  10:40:14 Hosting environment: Development
+INFO  10:40:14 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  10:40:14 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  10:41:02 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Factory Equipment
+INFO  10:41:02 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Factory Equipment
+INFO  10:41:02 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Factory Equipment
+INFO  10:41:08 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Property In Transit
+INFO  10:41:08 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Property In Transit
+INFO  10:41:08 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Property In Transit
+INFO  10:41:13 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=2 PropertyType=Property In Transit
+INFO  10:41:13 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=2 PropertyType=Property In Transit
+INFO  10:41:13 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=2 PropertyType=Property In Transit
+INFO  12:21:13 Application started. Press Ctrl+C to shut down.
+INFO  12:21:13 Application started. Press Ctrl+C to shut down.
+INFO  12:21:13 Hosting environment: Development
+INFO  12:21:13 Hosting environment: Development
+INFO  12:21:13 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  12:21:13 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  12:22:03 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  12:22:03 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  12:22:03 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  12:22:54 GetQuotesForPolicy action method started with PropertyValue=4 BusinessValue=4 PropertyType=Factory Equipment
+INFO  12:22:54 QuotesForPolicyService is accessed with propertyValue=4 BusinessValue=4 PropertyType=Factory Equipment
+INFO  12:22:54 Checking QuotesForPolicy with PropertyValue=4 BusinessValue=4 PropertyType=Factory Equipment
+INFO  12:35:18 Application started. Press Ctrl+C to shut down.
+INFO  12:35:18 Application started. Press Ctrl+C to shut down.
+INFO  12:35:18 Hosting environment: Development
+INFO  12:35:18 Hosting environment: Development
+INFO  12:35:18 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  12:35:18 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  02:03:17 Application started. Press Ctrl+C to shut down.
+INFO  02:03:17 Application started. Press Ctrl+C to shut down.
+INFO  02:03:17 Hosting environment: Development
+INFO  02:03:17 Hosting environment: Development
+INFO  02:03:17 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  02:03:17 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:08:24 Application started. Press Ctrl+C to shut down.
+INFO  04:08:24 Application started. Press Ctrl+C to shut down.
+INFO  04:08:24 Hosting environment: Development
+INFO  04:08:24 Hosting environment: Development
+INFO  04:08:24 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice
+INFO  04:08:24 Content root path: C:\Users\2085205\OneDrive - Cognizant\Desktop\Insuerity - Copy\QuotesMicroservice\QuotesMicroservice

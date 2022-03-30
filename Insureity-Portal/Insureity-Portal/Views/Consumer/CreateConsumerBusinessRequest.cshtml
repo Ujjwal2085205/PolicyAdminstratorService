@@ -1,0 +1,105 @@
+﻿@model Insureity_Portal.Models.ConsumerBusiness
+
+@{
+    ViewData["Title"] = "Create Consumer Business";
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <img src="~/Images/UserLogo.png" class="rounded mx-auto d-block " style="width:100px;height:99px;" />
+        <h4 class="d-flex justify-content-center pb-2">Create Consumer Business</h4>
+        <form asp-action="CreateConsumerBusinessRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row p-1">
+                <div class="col p-1">
+                    <font color="blue">ConsumerId</font>
+                    <input asp-for="ConsumerId" class="form-control" />
+                    <span asp-validation-for="ConsumerId" class="text-danger"></span>
+                </div>
+                <div class="col p-1">
+                    <font color="blue">ConsumerName</font>
+                    <input asp-for="ConsumerName" class="form-control" />
+                    <span asp-validation-for="ConsumerName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row p-1">
+                <div class="col p-1">
+                    <font color="blue">Email</font>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="col p-1">
+                    <font color="blue">Pan</font>
+                    <input asp-for="Pan" class="form-control" />
+                    <span asp-validation-for="Pan" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row p-1">
+                <div class="col p-1">
+                    <font color="blue">AgentId</font>
+                    <input asp-for="AgentId" class="form-control" />
+                    <span asp-validation-for="AgentId" class="text-danger"></span>
+                </div>
+                <div class="col p-1">
+                    <font color="blue">AgentName</font>
+                    <input asp-for="AgentName" class="form-control" />
+                    <span asp-validation-for="AgentName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row p-1">
+                <div class="col p-1">
+                    <font color="blue">BusinessId</font>
+                    <input asp-for="BusinessId" class="form-control" />
+                    <span asp-validation-for="BusinessId" class="text-danger"></span>
+                </div>
+                <div class="col p-1">
+                    <font color="blue">ValidityofConsumer</font>
+                    <input asp-for="ValidityofConsumer" class="form-control" />
+                    <span asp-validation-for="ValidityofConsumer" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row p-1">
+                <div class="col p-1">
+                    <font color="blue">BusinessOverview</font>
+                    <input asp-for="BusinessOverview" class="form-control" />
+                    <span asp-validation-for="BusinessOverview" class="text-danger"></span>
+                </div>
+                <div class="col p-1">
+                    <font color="blue">BusinessType</font>
+                    <select asp-for="BusinessType">
+                        <option value="Replacement">Replacement</option>
+                        <option value="PayBack">Pay Back</option>
+                    </select>
+                    <span asp-validation-for="BusinessType" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <font color="blue">AnnualTurnOver</font>
+                    <input asp-for="AnnualTurnOver" class="form-control" />
+                    <span asp-validation-for="AnnualTurnOver" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">TotalEmployees</font>
+                    <input asp-for="TotalEmployees" class="form-control" />
+                    <span asp-validation-for="TotalEmployees" class="text-danger"></span>
+                </div>
+                <div class="col">
+                    <font color="blue">CapitalInvested</font>
+                    <input asp-for="CapitalInvested" class="form-control" />
+                    <span asp-validation-for="CapitalInvested" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group d-flex justify-content-center pt-4">
+                <input type="submit" value="Create Consumer Business" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
